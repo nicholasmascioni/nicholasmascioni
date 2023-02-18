@@ -1,2 +1,2 @@
 # 👋 **Hi, I'm Nicholas**
-I'm a computer engineering student at Ryerson University. I enjoy writing code in Python, as well as building projects using Arduino, and drawing in my free time.  
+I'm a computer engineering student at Toronto Metropolitan University. I enjoy programming in Python, building projects using Arduino, tinkering with electronics, and drawing in my free time!  
